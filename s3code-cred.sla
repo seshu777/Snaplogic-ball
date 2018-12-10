@@ -1,0 +1,50 @@
+{
+    "class_id": "com-snaplogic-snaps-binary-binarys3account",
+    "class_version": 2,
+    "migration_metadata": {
+        "source_org": "Partners"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "s3code-cred"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "accessKeyId": {
+                "fp": "5537582b5408b627cd4dd4ff1c4b0ed40ea189ffc33ccf49e196ff6901dea522",
+                "key": "account-cloud-managed-55aeb42a050186140d44b424-2015-07-21T21:05:51-432179",
+                "sym_iv": "r7QcKITZtdQPP0GaglfXMA==",
+                "sym_key": "LYg+7NMU77EEr9AY1uPJ+3rJ/DWRF+7sotheEdNinfdx+mNGlOEbCCyUStgcgELXqnxPKdnucpvViFG4QY2ljeM42VgMq7te9+006ns5B0riwtinQflsifrKWltofYll7KAbQpijlUZSemzviwNfLjYUBwz3Avl1YWIBBTEBT7YJVBXkE6WU/QL9LX+Cri3k0eVo3IU8hKHdyCkechKzR3p0gdEyfV6Xojid4bE8tNac6QTupBFtAjfCXvjjkCLKnfBDkhZGWjAyZgHxGidGJljwXtxSh8+pPRtQ6ndJynJI2O/SKsHuqQbSGrVJC2RZbMVNvkSymfzU1XwgG7eVAw==",
+                "value": "BA1VhUmm951R1NrRRd6Prac9ivw/aZ2sAT74OUWLRss="
+            },
+            "encryptType": {
+                "value": "None"
+            },
+            "iamRole": {
+                "value": false
+            },
+            "kmsKey": {
+                "fp": "5537582b5408b627cd4dd4ff1c4b0ed40ea189ffc33ccf49e196ff6901dea522",
+                "key": "account-cloud-managed-55aeb42a050186140d44b424-2015-07-21T21:05:51-432179",
+                "sym_iv": "YVyKO7EYRCr3nWn6jDQmyQ==",
+                "sym_key": "e8BCXSF+AYZNQc32dkRtnLkxyRtD457c9h/aGfUJXyNraPKoRPr+aiar9MTKsX599vre30FNfX0nydidzD+9juhKXrrFyauP30KrcQcmGWtVAfCYfek6VpvvmgIYnj8ACLfG5OaCiRUze+K3TMzHC8pY6c+XdJvbkL4YJaq0Bp7CsqmdpE7+y42REhWRmcgm/2Z/tV+FjsPlFUQxoJFv8PfeoyzwNFtevnVnezauv/7Sk7pBEwKd9gl+cFSu/mFIfqXOrzH1ouD+XyFcmopD5ZrSQCkhOm/8Z8GQKXdYhLSqiqVi2ztAePbV8j7szvKx7kVTltUXbyZ/AK3FYidy7A==",
+                "value": "oqTj2C66bL9MQHQniPSeTg=="
+            },
+            "secretKey": {
+                "fp": "5537582b5408b627cd4dd4ff1c4b0ed40ea189ffc33ccf49e196ff6901dea522",
+                "key": "account-cloud-managed-55aeb42a050186140d44b424-2015-07-21T21:05:51-432179",
+                "sym_iv": "wV+vChJjT8Ua+9D62a88OQ==",
+                "sym_key": "Cx2HxH6H7rkqTg7xvb5kpjDsmfdH9iLOhshRFB8qwmyIs5PHkl3RXAfEaAeyAe6dDtbi1Vi3J1k6iKb3pAtwlOElkk6XN+AyRSOqiv4HTfJTmkuxSd+RVbq/rsuVYUKqSyx25dD5hseL6VncWYYfNiJ0N7ZtLGH2nCaTdv2PqOs4tPtjc2C4CLnfJQn5hsTXUpk0TMDQE7sAxpN1520v65k1xzm8Ma+GeUrdX44RlUMN/KSyEYLEKpVYIGRLOmQ+wuSvowMH2faFwQdSZY1jYY0pzk+bcT/wGgflKLXdMJpvB4vXWVIRK9rQ17u+52SoOzzbq+I4C93jvjhsRr3Luw==",
+                "value": "wjUkXijEU3PoIgeXB5kaAxF5RXqNLDLO2m8rEv9ChckjteOiWuroVXc4ILgw6red"
+            },
+            "serverSideEncryption": {
+                "value": false
+            }
+        },
+        "view_serial": 100
+    }
+}
