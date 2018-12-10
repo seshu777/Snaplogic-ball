@@ -1,0 +1,23 @@
+{
+    "job_class": "PipelineJob",
+    "job_name": "Config-Code Task",
+    "note": "",
+    "parameters": {
+        "enabled": true,
+        "execution_timeout": null,
+        "include_external_urls": true,
+        "job_alias": null,
+        "job_type": "regular",
+        "llfeed_token": "VYfkHLdMiqZ9wHkJH3JHeeZckfLg1zdr",
+        "max_failures": 10,
+        "max_in_flight": 200,
+        "notification": {
+            "recipients": null
+        },
+        "pipeline_path": "Config-Code",
+        "snaplex_path": "DEV Cloud"
+    },
+    "schedule": {},
+    "trigger": {},
+    "trigger_type": "ScheduleTrigger"
+}
